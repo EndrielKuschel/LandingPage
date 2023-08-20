@@ -45,7 +45,8 @@ body * {
 /* Container */
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /*margin: auto; Elementos inline margin auto não funciona
   Ordem das margin ou padding funciona como um relógio na seguinte ordem:
   margin-top: 56px;
