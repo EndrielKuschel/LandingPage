@@ -1,4 +1,4 @@
-<h1 align="center"> Portifólio </h1>
+<h1 align="center"> Landing Page </h1>
 
 <p align="center">
 Programa desenvolvido com auxílio do curso ministrado pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -30,8 +30,6 @@ O projeto consiste em ser um agregador de links para usar como cartão de visita
 Com esse projeto, desenvolvi a habilidade de mexer mais a fundo com tecnologias como o CSS e o HTML. Além disso, obtive noções de JavaScript que me auxiliaram a reforçar conceitos pré estabelecidos.
 
 Também reforcei meus conceitos de comandos git, fortalecendo meus conhecimentos sobre o assunto.
-
-Pretendo utilizar esse início de projeto como um primeiro commit para um portifólio maior, onde incluirei de forma profissional todos os projetos que estou trabalhando no desenvolvimento.
 
 Deixo aqui os créditos para a Rocketseat, a plataforma cujo curso me auxiliou na criação desse projeto.
 
